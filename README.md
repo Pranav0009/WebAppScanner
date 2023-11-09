@@ -8,6 +8,4 @@
 <a href="https://en.wikipedia.org/wiki/HTML">
     <img src="https://icons8.com/icon/20909/html-5"></a>
 
-<a href="https://en.wikipedia.org/wiki/HTML">
-    <img src="https://icons8.com/icon/7gdY5qNXaKC0/css3"></a>
-    
+![css-3](https://github.com/Pranav0009/WebappScanner/assets/93175823/331caf95-265d-4865-9ed0-eb289840e127)
