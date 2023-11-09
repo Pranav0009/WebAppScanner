@@ -1,3 +1,5 @@
 Flask==2.1.1  # Replace with the specific version of Flask you're using
 requests==2.26.0  # Or any other HTTP library you use
 gunicorn==20.1.3  # If you plan to deploy your Flask app
+urllib.request
+time
