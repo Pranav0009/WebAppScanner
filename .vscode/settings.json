@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "sqli",
+        "useragent",
+        "vuln"
+    ],
+    "cSpell.ignoreWords": [
+        "vulnz"
+    ],
+    "git.ignoreLimitWarning": true
+}

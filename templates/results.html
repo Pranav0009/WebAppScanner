@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Scan Results</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Scan Results</h1>
+        
+        <h2>Remote Code Execution (RCE) Results:</h2>
+        <pre>{{ rce_results }}</pre>
+        
+        <h2>Cross-Site Scripting (XSS) Results:</h2>
+        <pre>{{ xss_results }}</pre>
+        
+        <h2>Error-Based SQL Injection Results:</h2>
+        <pre>{{ error_based_sqli_results }}</pre>
+    </div>
+</body>
+</html>
