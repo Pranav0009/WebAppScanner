@@ -6,6 +6,8 @@
     <img src="https://www.python.org/static/img/python-logo.png"></a>
 <br>
 <a href="https://en.wikipedia.org/wiki/HTML">
-    <img src="https://cdn-icons-png.flaticon.com/128/82/82127.png"></a>
-
+    <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png"></a>
+    
+<a href="https://en.wikipedia.org/wiki/HTML">
+    <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png"></a>
 
