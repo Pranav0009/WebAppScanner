@@ -42,7 +42,6 @@ To run this project locally, follow these steps:
 
 ## Requirements
 Describe the installation process, if any, including any dependencies. 
-
 ```shell
 pip install -r requirements.txt
    
