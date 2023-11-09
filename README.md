@@ -39,4 +39,10 @@ To run this project locally, follow these steps:
 1. Clone this repository.
    ```bash
    git clone https://github.com/Pranav0009/WebappScanner.git
+
+## Requirements
+Describe the installation process, if any, including any dependencies. 
+
+```shell
+pip install -r requirements.txt
    
