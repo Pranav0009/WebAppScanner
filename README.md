@@ -11,3 +11,23 @@
 
 <a href="https://en.wikipedia.org/wiki/CSS">
     <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png"></a>
+
+## Table of Contents
+- [About](#about)
+- [Features](#features)
+- [Installation](#installation)
+- [Requirements](#Requirements)
+
+## About
+
+
+## Features
+
+
+## Installation
+To run this project locally, follow these steps:
+
+1. Clone this repository.
+   ```bash
+   git clone https://github.com/Pranav0009/WebappScanner.git
+   
