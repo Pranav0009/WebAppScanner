@@ -19,9 +19,18 @@
 - [Requirements](#Requirements)
 
 ## About
+WebAppScanner is a powerful and user-friendly web application security scanner designed to help you identify vulnerabilities in web applications and enhance their security. Whether you are a developer, security professional, or just someone interested in web security, WebAppScanner can be a valuable tool in your arsenal.
 
 
 ## Features
+- Web Vulnerability Scanning
+- User-Friendly UI
+- Vulnerability Categories
+- Custom Payloads
+- Display of Scan Progress
+- Vulnerability Detection
+- Error Handling
+- Response Analysis
 
 
 ## Installation
